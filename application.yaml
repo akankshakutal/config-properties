@@ -1,4 +1,4 @@
 axis:
   toggles:
-    toggle3: true
-    toggle1: false
+    toggle1: true
+    toggle2: true
