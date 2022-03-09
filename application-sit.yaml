@@ -1,4 +1,4 @@
 axis:
     toggles:
-        commonToggle: abcd
+        commonToggle: commonToggle
         newToggle: abcdqwe
